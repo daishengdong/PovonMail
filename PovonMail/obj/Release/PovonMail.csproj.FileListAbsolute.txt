@@ -1,0 +1,15 @@
+X:\PovonMail\PovonMail\bin\Release\PovonMail.exe
+X:\PovonMail\PovonMail\bin\Release\PovonMail.pdb
+X:\PovonMail\PovonMail\bin\Release\LumiSoft.Net.dll
+X:\PovonMail\PovonMail\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+X:\PovonMail\PovonMail\obj\Release\ResolveAssemblyReference.cache
+X:\PovonMail\PovonMail\obj\Release\PovonMail.AccountSettingsFrm.resources
+X:\PovonMail\PovonMail\obj\Release\PovonMail.MailAccountSetupFrm.resources
+X:\PovonMail\PovonMail\obj\Release\PovonMail.MainFrm.resources
+X:\PovonMail\PovonMail\obj\Release\PovonMail.Properties.Resources.resources
+X:\PovonMail\PovonMail\obj\Release\PovonMail.SplitButton.resources
+X:\PovonMail\PovonMail\obj\Release\PovonMail.WriteFrm.resources
+X:\PovonMail\PovonMail\obj\Release\PovonMail.csproj.GenerateResource.Cache
+X:\PovonMail\PovonMail\obj\Release\PovonMail.exe
+X:\PovonMail\PovonMail\obj\Release\PovonMail.pdb
+X:\PovonMail\PovonMail\obj\Release\PovonMail.ViewMailFrm.resources
